@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://onukiayo.github.io/Dho/sitemap_index.txt
+Sitemap: https://onukiayo.github.io/Qgn/sitemap_index.txt
+Sitemap: https://onukiayo.github.io/tfD/sitemap_index.txt
+Sitemap: https://onukiayo.github.io/xtv/sitemap_index.txt
